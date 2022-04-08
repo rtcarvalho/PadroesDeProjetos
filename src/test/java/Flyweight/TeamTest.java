@@ -1,3 +1,5 @@
+package Flyweight;
+
 import Flyweight.PosicaoFactory;
 import Flyweight.Team;
 import org.junit.jupiter.api.Test;

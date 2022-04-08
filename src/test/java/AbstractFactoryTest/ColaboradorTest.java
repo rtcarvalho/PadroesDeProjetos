@@ -22,3 +22,4 @@ class ColaboradorTest {
         Colaborador colaborador = new Colaborador(fabrica);
         assertEquals("Beneficio estagiario", colaborador.imprimiBeneficios());
     }
+}
