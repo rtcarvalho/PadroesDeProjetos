@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 public class Aluno {
 
@@ -19,7 +19,7 @@ public class Aluno {
         return persistencia.recuperarAvaliacao();
     }
 
-    // Método apenas para mostrar que está convertendo conceito para nota através do adaptador
+    // Método para mostrar que está convertendo conceito para nota através do adaptador
     public float getNota() {
         return persistencia.getNota();
     }
