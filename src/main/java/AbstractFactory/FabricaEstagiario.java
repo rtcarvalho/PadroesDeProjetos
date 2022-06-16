@@ -1,4 +1,4 @@
-package AbstractFactory;
+package abstractfactory;
 
 public class FabricaEstagiario implements FabricaAbstrat {
 

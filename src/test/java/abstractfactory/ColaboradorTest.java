@@ -1,8 +1,5 @@
-package AbstractFactoryTest;
+package abstractfactory;
 
-import AbstractFactory.Colaborador;
-import AbstractFactory.FabricaAbstrat;
-import AbstractFactory.FabricaEstagiario;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
